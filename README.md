@@ -8,7 +8,6 @@ Desafio dio : Construindo um app usando o censor de movimento com React Native.
 ### Conteudo
 
 - Libs  react-native-shake e react-native-torch
-- icons: 
 - Stylesheet
 - Hook useState
 - Hook useEffect
